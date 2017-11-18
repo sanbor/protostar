@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Santiago Borrazás <santiago@borrazas.org>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
